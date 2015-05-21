@@ -1,17 +1,17 @@
 body{
 	margin: auto;
-	background: url("file:///Users/chelsea/playground/images/lights.jpg");
+	background: url("images/lights.jpg");
 }
 
-h1{
+#header{
 	background-color:#fcb774;
 	text-align: left;
 	padding: 20px;
 	font-family: arial;
-	font-size: 36px;
 	margin: auto;
 }
 
 #jumbo{
 	background-color:#ffff;
+	margin: 20px;
 }

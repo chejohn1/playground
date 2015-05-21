@@ -1,3 +1,8 @@
+@font-face{
+	font-family: yellowButterflies;
+	src: url("fonts/Mf Yellow Butterflies.ttf");
+}
+
 body{
 	margin: auto;
 	background: url("images/lights.jpg");
@@ -9,9 +14,12 @@ body{
 	padding: 20px;
 	font-family: arial;
 	margin: auto;
+	font-family: yellowButterflies;
 }
 
 #jumbo{
 	background-color:#ffff;
 	margin: 20px;
 }
+
+
